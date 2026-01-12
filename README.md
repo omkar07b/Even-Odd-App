@@ -1,4 +1,4 @@
-In this project, let's build an **Even Odd App** by applying the concepts we have learned till now.
+[Click for demo](https://omkarevenodd.ccbp.tech/)
 
 ### Refer to the image below:
 
